@@ -1,14 +1,13 @@
 ## G'day Mate 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Jeff(Puyu)+Li.+;My+Conquest+is+the+Sea+of+Stars." alt="Typing SVG" /></a>
 <br />
 <p align="center">
-    <img align="left" src="https://github.com/lpy5618/lpy5618/blob/main/profile.jpg" alt="Profile Image" width="35%" height="35%">
+    <img align="left" src="https://github.com/lpy5618/lpy5618/blob/main/profile.jpg" alt="Profile Image" width="20%" height="20%">
 
   <p clear="right">
     - 22' Master of Information Technology(Artificial Intelligence) @ The University of Melbourne, Australia <br />
     - 20' Bachelor of Computer Science and Technology @ Guangxi University, China 
     <br />
-<!--     <a href="https://room-of-requirement.atlassian.net/wiki/spaces/ROR/pages/14975667/Introduction"><strong>Explore the project Confluence 
-    page »</strong></a> -->
     <br />
     <h3> Reach me: 
     <a href="https://www.linkedin.com/in/puyuli/">LinkedIn</a>
@@ -17,7 +16,7 @@
     </h3>
   </p>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Jeff(Puyu)+Li.+;My+Conquest+is+the+Sea+of+Stars." alt="Typing SVG" /></a>
+
 
 ## Languages and Tools :
 
@@ -35,14 +34,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpy5618)](https://github.com/lpy5618/github-readme-stats)
 
 ## My GitHub Stats
-<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpy5618&theme=radical&hide_border=true" />
-&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
+<img width="100" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpy5618&theme=transparent&hide_border=true" />
+&emsp;<img width="100" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
 <!--Link-Speed-->
-<div class="contain"><p style="font-size:40px;color:orange">Link-Speed</p>
+<div align="center" class="contain"><p style="font-size:40px;color:orange">Link-Speed</p>
 </div>
 
-<div align=""> <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
+<div align="center"> <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
 <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
 <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
 </div>
