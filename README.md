@@ -7,7 +7,7 @@
     <img align="left" src="https://github.com/lpy5618/lpy5618/blob/main/profile.jpg" alt="Profile Image" width="20%" height="20%">
 
   <p clear="right">
-    - 22' Master of Information Technology(Artificial Intelligence) @ The University of Melbourne, Australia <br />
+    - 22' Master of Information Technology (Artificial Intelligence) @ The University of Melbourne, Australia <br />
     - 20' Bachelor of Computer Science and Technology @ Guangxi University, China 
     <br />
     <br />
@@ -19,6 +19,9 @@
   </p>
 </p>
 
+
+<br />
+
 ## Languages and Tools :
 
 <p align="center">
@@ -27,17 +30,11 @@
   </a>
 </p>
 
+## My Skills Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpy5618)](https://github.com/lpy5618/github-readme-stats)
 
-<!-- 访问数据-鸭鸭-->
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=lpy5618&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/lpy5618/lpy5618?color=black&logo=github&style=flat-square">
-<img src="https://github.com/lpy5618/lpy5618/blob/main/images/duck.gif?raw=true"width="20%">
-</div>
-
-
-
 ## My GitHub Stats
-
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=lpy5618&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/lpy5618/lpy5618?color=black&logo=github&style=flat-square"></div>
 <div align="center">
 <img width="120" src="https://github.com/lpy5618/lpy5618/blob/main/images/chibang_left.png?raw=true" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpy5618&theme=transparent&hide_border=true" />
