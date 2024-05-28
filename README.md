@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-    <img align="left" src="https://github.com/lpy5618/lpy5618/blob/main/profile.jpg" alt="Profile Image" width="20%" height="20%">
+    <img align="left" src="https://github.com/lpy5618/lpy5618/blob/main/profile.jpg" alt="Profile Image" width="18%" height="18%">
 
   <p clear="right">
     - 22' Master of Information Technology (Artificial Intelligence) @ The University of Melbourne, Australia <br />
@@ -20,6 +20,7 @@
 </p>
 
 
+<br />
 <br />
 
 ## Languages and Tools :
