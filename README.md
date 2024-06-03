@@ -14,6 +14,8 @@
     <h3> Reach me: 
     <a href="https://www.linkedin.com/in/puyuli/">LinkedIn</a>
     |
+    <a href="https://www.jeffli.xyz/">Personal Website</a>
+    |
     <a href="mailto:puyuli0630@gmail.com?">Email</a>
     </h3>
   </p>
